@@ -51,7 +51,7 @@ export default function PortfolioPage() {
               category: "Nail Salon",
               title: "Professional Website for Nail Beauty Studio",
               excerpt: "High-converting site with online booking system that increased appointments by 250%",
-              imageSrc: "http://img.b2bpic.net/free-photo/female-dentists-with-papers-professional-doctors-solve-problems-with-documents_169016-67254.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/female-dentists-with-papers-professional-doctors-solve-problems-with-documents_169016-67254.jpg?_wi=2",
               imageAlt: "Nail salon interior design modern",
               authorName: "Maius Digital",
               authorAvatar: "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",
@@ -62,7 +62,7 @@ export default function PortfolioPage() {
               category: "Contractors",
               title: "Contractor Website with Project Gallery",
               excerpt: "Showcases portfolio with lead generation forms that attracts quality construction clients",
-              imageSrc: "http://img.b2bpic.net/free-vector/gradient-construction-landing-page-template_23-2149568012.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/gradient-construction-landing-page-template_23-2149568012.jpg?_wi=2",
               imageAlt: "construction contractor working on project",
               authorName: "Maius Digital",
               authorAvatar: "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",
@@ -73,7 +73,7 @@ export default function PortfolioPage() {
               category: "Restaurants",
               title: "Restaurant Website with Online Ordering",
               excerpt: "Modern design with menu showcase and reservation system boosting daily revenue",
-              imageSrc: "http://img.b2bpic.net/free-psd/american-food-concept-web-template_23-2148485900.jpg",
+              imageSrc: "http://img.b2bpic.net/free-psd/american-food-concept-web-template_23-2148485900.jpg?_wi=2",
               imageAlt: "modern restaurant interior design elegant",
               authorName: "Maius Digital",
               authorAvatar: "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",
@@ -84,7 +84,7 @@ export default function PortfolioPage() {
               category: "Beauty Services",
               title: "Beauty Services Website with Booking Calendar",
               excerpt: "Elegant design that integrates booking system and service showcase for maximum conversions",
-              imageSrc: "http://img.b2bpic.net/free-psd/landing-page-template-spa-treatment_23-2148613084.jpg",
+              imageSrc: "http://img.b2bpic.net/free-psd/landing-page-template-spa-treatment_23-2148613084.jpg?_wi=2",
               imageAlt: "beauty salon spa interior professional",
               authorName: "Maius Digital",
               authorAvatar: "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",
@@ -95,7 +95,7 @@ export default function PortfolioPage() {
               category: "Local Services",
               title: "Local Service Business Website",
               excerpt: "Complete online solution with service descriptions, testimonials, and consultation booking",
-              imageSrc: "http://img.b2bpic.net/free-photo/co-workers-wearing-face-mask-work_23-2148727683.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/co-workers-wearing-face-mask-work_23-2148727683.jpg?_wi=2",
               imageAlt: "local business service professional team",
               authorName: "Maius Digital",
               authorAvatar: "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",
@@ -117,7 +117,7 @@ export default function PortfolioPage() {
           title="Book Your Free Website Audit"
           description="Let us analyze your current online presence and show you exactly how a professional website can attract more customers to your business. No obligation, completely free."
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/indoor-shot-blonde-female-having-business-conversation-with-colleague_273609-4708.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/indoor-shot-blonde-female-having-business-conversation-with-colleague_273609-4708.jpg?_wi=3"
           mediaAnimation="slide-up"
           mediaPosition="right"
           background={{ variant: "sparkles-gradient" }}
