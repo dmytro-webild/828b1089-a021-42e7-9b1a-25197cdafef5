@@ -48,17 +48,17 @@ export default function PricingPage() {
           features={[
             {
               icon: Globe,
-              title: "Starter Website",
+              title: "Starter Website - $500",
               description: "Perfect for getting started online. Includes up to 5 pages, contact form, mobile-responsive design, and basic SEO optimization.",
             },
             {
               icon: Award,
-              title: "Professional Package",
+              title: "Professional Package - $800",
               description: "Full-featured website with advanced functionality. Includes up to 15 pages, booking system, analytics integration, and comprehensive SEO setup.",
             },
             {
               icon: Clock,
-              title: "Enterprise Solution",
+              title: "Enterprise Solution - $1200",
               description: "Complete digital presence. Custom design, unlimited pages, e-commerce integration, advanced analytics, and ongoing support.",
             },
           ]}
