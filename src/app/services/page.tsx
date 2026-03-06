@@ -139,7 +139,7 @@ export default function ServicesPage() {
           title="Get a Custom Service Quote"
           description="Every business is unique. Tell us about your goals and we'll create a personalized service package designed to help you achieve maximum results and ROI."
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/indoor-shot-blonde-female-having-business-conversation-with-colleague_273609-4708.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/indoor-shot-blonde-female-having-business-conversation-with-colleague_273609-4708.jpg?_wi=2"
           mediaAnimation="slide-up"
           mediaPosition="right"
           background={{

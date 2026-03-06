@@ -45,7 +45,7 @@ export default function ContactPage() {
           title="Book Your Free Website Audit"
           description="Let us analyze your current online presence and show you exactly how a professional website can attract more customers to your business. No obligation, completely free."
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/indoor-shot-blonde-female-having-business-conversation-with-colleague_273609-4708.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/indoor-shot-blonde-female-having-business-conversation-with-colleague_273609-4708.jpg?_wi=5"
           mediaAnimation="slide-up"
           mediaPosition="right"
           background={{
