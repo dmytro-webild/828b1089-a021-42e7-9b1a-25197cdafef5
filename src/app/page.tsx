@@ -40,9 +40,7 @@ export default function HomePage() {
           brandName="Maius Digital"
           navItems={navItems}
           button={{
-            text: "Get Your Website",
-            href: "#consultation",
-          }}
+            text: "Get Started",            href: "#consultation"}}
           animateOnLoad={true}
         />
       </div>
@@ -53,30 +51,18 @@ export default function HomePage() {
           description="Turn Your Business Into a Lead-Generating Machine. We help local businesses get more customers with professional, high-converting websites."
           buttons={[
             {
-              text: "Get Your Website",
-              href: "#consultation",
-            },
-            {
-              text: "Free Website Audit",
-              href: "#contact",
-            },
+              text: "Free Website Audit",              href: "#contact"},
           ]}
           slides={[
             {
               imageSrc:
-                "http://img.b2bpic.net/free-photo/businessman-near-glass-building-looking-camera_23-2148308621.jpg",
-              imageAlt: "professional business owner working laptop office",
-            },
+                "http://img.b2bpic.net/free-photo/businessman-near-glass-building-looking-camera_23-2148308621.jpg",              imageAlt: "professional business owner working laptop office"},
             {
               imageSrc:
-                "http://img.b2bpic.net/free-photo/colleagues-discussing-new-ideas-business-meeting_176420-5034.jpg",
-              imageAlt: "digital marketing strategy team collaboration",
-            },
+                "http://img.b2bpic.net/free-photo/colleagues-discussing-new-ideas-business-meeting_176420-5034.jpg",              imageAlt: "digital marketing strategy team collaboration"},
             {
               imageSrc:
-                "http://img.b2bpic.net/free-photo/male-analyst-doing-financial-research_482257-119498.jpg",
-              imageAlt: "successful business owner smiling professional",
-            },
+                "http://img.b2bpic.net/free-photo/male-analyst-doing-financial-research_482257-119498.jpg",              imageAlt: "successful business owner smiling professional"},
           ]}
           autoplayDelay={5000}
           showDimOverlay={true}
@@ -90,22 +76,16 @@ export default function HomePage() {
           features={[
             {
               icon: Users,
-              title: "More Customers",
-              description:
-                "Attract qualified leads and convert them into loyal customers with a website optimized for results.",
-            },
+              title: "More Customers",              description:
+                "Attract qualified leads and convert them into loyal customers with a website optimized for results."},
             {
               icon: Award,
-              title: "Professional Online Presence",
-              description:
-                "Build credibility and trust with a modern, professional website that represents your brand perfectly.",
-            },
+              title: "Professional Online Presence",              description:
+                "Build credibility and trust with a modern, professional website that represents your brand perfectly."},
             {
               icon: Clock,
-              title: "24/7 Lead Generation",
-              description:
-                "Your website works around the clock, capturing leads and inquiries even while you sleep.",
-            },
+              title: "24/7 Lead Generation",              description:
+                "Your website works around the clock, capturing leads and inquiries even while you sleep."},
           ]}
           animationType="slide-up"
           textboxLayout="default"
@@ -119,32 +99,16 @@ export default function HomePage() {
           description="Real results for real local businesses"
           metrics={[
             {
-              id: "1",
-              value: "500",
-              title: "Websites Built",
-              description: "Professional sites for local businesses",
-              icon: Globe,
+              id: "1",              value: "500",              title: "Websites Built",              description: "Professional sites for local businesses",              icon: Globe,
             },
             {
-              id: "2",
-              value: "10k",
-              title: "Leads Generated",
-              description: "For our clients in the past year",
-              icon: TrendingUp,
+              id: "2",              value: "10k",              title: "Leads Generated",              description: "For our clients in the past year",              icon: TrendingUp,
             },
             {
-              id: "3",
-              value: "98",
-              title: "% Client Satisfaction",
-              description: "Proven results and exceptional service",
-              icon: ThumbsUp,
+              id: "3",              value: "98",              title: "% Client Satisfaction",              description: "Proven results and exceptional service",              icon: ThumbsUp,
             },
             {
-              id: "4",
-              value: "12",
-              title: "Years Experience",
-              description: "Helping businesses grow online",
-              icon: Award,
+              id: "4",              value: "12",              title: "Years Experience",              description: "Helping businesses grow online",              icon: Award,
             },
           ]}
           gridVariant="uniform-all-items-equal"
@@ -161,21 +125,13 @@ export default function HomePage() {
           author="Sarah Mitchell, Owner - Mitchell's Hair Studio"
           avatars={[
             {
-              src: "http://img.b2bpic.net/free-photo/young-woman-sitting-library_273609-15843.jpg",
-              alt: "Sarah Mitchell",
-            },
+              src: "http://img.b2bpic.net/free-photo/young-woman-sitting-library_273609-15843.jpg",              alt: "Sarah Mitchell"},
             {
-              src: "http://img.b2bpic.net/free-photo/young-handsome-man-office-center_1303-19604.jpg",
-              alt: "John Davis",
-            },
+              src: "http://img.b2bpic.net/free-photo/young-handsome-man-office-center_1303-19604.jpg",              alt: "John Davis"},
             {
-              src: "http://img.b2bpic.net/free-photo/skeptical-senior-businesswoman-looking-camera_1262-5592.jpg",
-              alt: "Emma Rodriguez",
-            },
+              src: "http://img.b2bpic.net/free-photo/skeptical-senior-businesswoman-looking-camera_1262-5592.jpg",              alt: "Emma Rodriguez"},
             {
-              src: "http://img.b2bpic.net/free-photo/blond-businessman-sad-expression_1194-3902.jpg",
-              alt: "Mike Thompson",
-            },
+              src: "http://img.b2bpic.net/free-photo/blond-businessman-sad-expression_1194-3902.jpg",              alt: "Mike Thompson"},
           ]}
           ratingAnimation="slide-up"
           avatarsAnimation="slide-up"
@@ -189,75 +145,30 @@ export default function HomePage() {
           description="See how we've helped businesses in your industry succeed online"
           blogs={[
             {
-              id: "1",
-              category: "Nail Salon",
-              title: "Professional Website for Nail Beauty Studio",
-              excerpt:
-                "High-converting site with online booking system that increased appointments by 250%",
-              imageSrc:
-                "http://img.b2bpic.net/free-photo/female-dentists-with-papers-professional-doctors-solve-problems-with-documents_169016-67254.jpg?_wi=1",
-              imageAlt: "Nail salon interior design modern",
-              authorName: "Maius Digital",
-              authorAvatar:
-                "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",
-              date: "2024",
-            },
+              id: "1",              category: "Nail Salon",              title: "Professional Website for Nail Beauty Studio",              excerpt:
+                "High-converting site with online booking system that increased appointments by 250%",              imageSrc:
+                "http://img.b2bpic.net/free-photo/female-dentists-with-papers-professional-doctors-solve-problems-with-documents_169016-67254.jpg?_wi=1",              imageAlt: "Nail salon interior design modern",              authorName: "Maius Digital",              authorAvatar:
+                "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",              date: "2024"},
             {
-              id: "2",
-              category: "Contractors",
-              title: "Contractor Website with Project Gallery",
-              excerpt:
-                "Showcases portfolio with lead generation forms that attracts quality construction clients",
-              imageSrc:
-                "http://img.b2bpic.net/free-vector/gradient-construction-landing-page-template_23-2149568012.jpg?_wi=1",
-              imageAlt: "Contractor website design",
-              authorName: "Maius Digital",
-              authorAvatar:
-                "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",
-              date: "2024",
-            },
+              id: "2",              category: "Contractors",              title: "Contractor Website with Project Gallery",              excerpt:
+                "Showcases portfolio with lead generation forms that attracts quality construction clients",              imageSrc:
+                "http://img.b2bpic.net/free-vector/gradient-construction-landing-page-template_23-2149568012.jpg?_wi=1",              imageAlt: "Contractor website design",              authorName: "Maius Digital",              authorAvatar:
+                "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",              date: "2024"},
             {
-              id: "3",
-              category: "Restaurants",
-              title: "Restaurant Website with Online Ordering",
-              excerpt:
-                "Modern design with menu showcase and reservation system boosting daily revenue",
-              imageSrc:
-                "http://img.b2bpic.net/free-psd/american-food-concept-web-template_23-2148485900.jpg?_wi=1",
-              imageAlt: "Restaurant website design",
-              authorName: "Maius Digital",
-              authorAvatar:
-                "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",
-              date: "2024",
-            },
+              id: "3",              category: "Restaurants",              title: "Restaurant Website with Online Ordering",              excerpt:
+                "Modern design with menu showcase and reservation system boosting daily revenue",              imageSrc:
+                "http://img.b2bpic.net/free-psd/american-food-concept-web-template_23-2148485900.jpg?_wi=1",              imageAlt: "Restaurant website design",              authorName: "Maius Digital",              authorAvatar:
+                "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",              date: "2024"},
             {
-              id: "4",
-              category: "Beauty Services",
-              title: "Beauty Services Website with Booking Calendar",
-              excerpt:
-                "Elegant design that integrates booking system and service showcase for maximum conversions",
-              imageSrc:
-                "http://img.b2bpic.net/free-psd/landing-page-template-spa-treatment_23-2148613084.jpg?_wi=1",
-              imageAlt: "Beauty services website design",
-              authorName: "Maius Digital",
-              authorAvatar:
-                "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",
-              date: "2024",
-            },
+              id: "4",              category: "Beauty Services",              title: "Beauty Services Website with Booking Calendar",              excerpt:
+                "Elegant design that integrates booking system and service showcase for maximum conversions",              imageSrc:
+                "http://img.b2bpic.net/free-psd/landing-page-template-spa-treatment_23-2148613084.jpg?_wi=1",              imageAlt: "Beauty services website design",              authorName: "Maius Digital",              authorAvatar:
+                "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",              date: "2024"},
             {
-              id: "5",
-              category: "Local Services",
-              title: "Local Service Business Website",
-              excerpt:
-                "Complete online solution with service descriptions, testimonials, and consultation booking",
-              imageSrc:
-                "http://img.b2bpic.net/free-photo/co-workers-wearing-face-mask-work_23-2148727683.jpg?_wi=1",
-              imageAlt: "Local services website design",
-              authorName: "Maius Digital",
-              authorAvatar:
-                "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",
-              date: "2024",
-            },
+              id: "5",              category: "Local Services",              title: "Local Service Business Website",              excerpt:
+                "Complete online solution with service descriptions, testimonials, and consultation booking",              imageSrc:
+                "http://img.b2bpic.net/free-photo/co-workers-wearing-face-mask-work_23-2148727683.jpg?_wi=1",              imageAlt: "Local services website design",              authorName: "Maius Digital",              authorAvatar:
+                "http://img.b2bpic.net/free-vector/gradient-code-logo-template_23-2148825387.jpg",              date: "2024"},
           ]}
           animationType="slide-up"
           textboxLayout="default"
@@ -276,8 +187,7 @@ export default function HomePage() {
           mediaAnimation="slide-up"
           mediaPosition="right"
           background={{
-            variant: "sparkles-gradient",
-          }}
+            variant: "sparkles-gradient"}}
           inputPlaceholder="Enter your email"
           buttonText="Get My Free Audit"
           termsText="We respect your privacy. You'll receive valuable insights via email."
@@ -288,13 +198,9 @@ export default function HomePage() {
         <FooterLogoReveal
           logoText="Maius Digital"
           leftLink={{
-            text: "Privacy Policy",
-            href: "#",
-          }}
+            text: "Privacy Policy",            href: "#"}}
           rightLink={{
-            text: "Terms of Service",
-            href: "#",
-          }}
+            text: "Terms of Service",            href: "#"}}
         />
       </div>
     </ThemeProvider>

@@ -32,9 +32,7 @@ export default function ContactPage() {
             { name: "Contact", id: "/contact" },
           ]}
           button={{
-            text: "Get Your Website",
-            href: "#consultation",
-          }}
+            text: "Get Started",            href: "#consultation"}}
           animateOnLoad={true}
         />
       </div>
@@ -49,8 +47,7 @@ export default function ContactPage() {
           mediaAnimation="slide-up"
           mediaPosition="right"
           background={{
-            variant: "sparkles-gradient",
-          }}
+            variant: "sparkles-gradient"}}
           inputPlaceholder="Enter your email"
           buttonText="Get My Free Audit"
           termsText="We respect your privacy. You'll receive valuable insights via email."
@@ -61,13 +58,9 @@ export default function ContactPage() {
         <FooterLogoReveal
           logoText="Maius Digital"
           leftLink={{
-            text: "Privacy Policy",
-            href: "#",
-          }}
+            text: "Privacy Policy",            href: "#"}}
           rightLink={{
-            text: "Terms of Service",
-            href: "#",
-          }}
+            text: "Terms of Service",            href: "#"}}
         />
       </div>
     </ThemeProvider>

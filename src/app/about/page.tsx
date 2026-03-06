@@ -35,9 +35,7 @@ export default function AboutPage() {
             { name: "Contact", id: "/contact" },
           ]}
           button={{
-            text: "Get Your Website",
-            href: "#consultation",
-          }}
+            text: "Get Started",            href: "#consultation"}}
           animateOnLoad={true}
         />
       </div>
@@ -47,19 +45,13 @@ export default function AboutPage() {
           features={[
             {
               icon: Users,
-              title: "Client-Focused Approach",
-              description: "We listen to your business goals and create solutions that drive real results for your local business.",
-            },
+              title: "Client-Focused Approach",              description: "We listen to your business goals and create solutions that drive real results for your local business."},
             {
               icon: Award,
-              title: "Award-Winning Design",
-              description: "Our websites have won industry recognition for combining beautiful design with high conversion rates.",
-            },
+              title: "Award-Winning Design",              description: "Our websites have won industry recognition for combining beautiful design with high conversion rates."},
             {
               icon: Clock,
-              title: "Fast Implementation",
-              description: "From initial consultation to launch, we work efficiently to get your website live and generating leads.",
-            },
+              title: "Fast Implementation",              description: "From initial consultation to launch, we work efficiently to get your website live and generating leads."},
           ]}
           title="Why Choose Maius Digital?"
           description="We're not just another web design agency. We specialize in helping local businesses succeed online."
@@ -73,32 +65,16 @@ export default function AboutPage() {
         <MetricCardOne
           metrics={[
             {
-              id: "1",
-              value: "500",
-              title: "Websites Built",
-              description: "Professional sites for local businesses",
-              icon: Globe,
+              id: "1",              value: "500",              title: "Websites Built",              description: "Professional sites for local businesses",              icon: Globe,
             },
             {
-              id: "2",
-              value: "10k",
-              title: "Leads Generated",
-              description: "For our clients in the past year",
-              icon: TrendingUp,
+              id: "2",              value: "10k",              title: "Leads Generated",              description: "For our clients in the past year",              icon: TrendingUp,
             },
             {
-              id: "3",
-              value: "98",
-              title: "% Client Satisfaction",
-              description: "Proven results and exceptional service",
-              icon: ThumbsUp,
+              id: "3",              value: "98",              title: "% Client Satisfaction",              description: "Proven results and exceptional service",              icon: ThumbsUp,
             },
             {
-              id: "4",
-              value: "12",
-              title: "Years Experience",
-              description: "Helping businesses grow online",
-              icon: Award,
+              id: "4",              value: "12",              title: "Years Experience",              description: "Helping businesses grow online",              icon: Award,
             },
           ]}
           title="Our Impact"
@@ -117,21 +93,13 @@ export default function AboutPage() {
           author="Sarah Mitchell, Owner - Mitchell's Hair Studio"
           avatars={[
             {
-              src: "http://img.b2bpic.net/free-photo/young-woman-sitting-library_273609-15843.jpg",
-              alt: "Sarah Mitchell",
-            },
+              src: "http://img.b2bpic.net/free-photo/young-woman-sitting-library_273609-15843.jpg",              alt: "Sarah Mitchell"},
             {
-              src: "http://img.b2bpic.net/free-photo/young-handsome-man-office-center_1303-19604.jpg",
-              alt: "John Davis",
-            },
+              src: "http://img.b2bpic.net/free-photo/young-handsome-man-office-center_1303-19604.jpg",              alt: "John Davis"},
             {
-              src: "http://img.b2bpic.net/free-photo/skeptical-senior-businesswoman-looking-camera_1262-5592.jpg",
-              alt: "Emma Rodriguez",
-            },
+              src: "http://img.b2bpic.net/free-photo/skeptical-senior-businesswoman-looking-camera_1262-5592.jpg",              alt: "Emma Rodriguez"},
             {
-              src: "http://img.b2bpic.net/free-photo/blond-businessman-sad-expression_1194-3902.jpg",
-              alt: "Mike Thompson",
-            },
+              src: "http://img.b2bpic.net/free-photo/blond-businessman-sad-expression_1194-3902.jpg",              alt: "Mike Thompson"},
           ]}
           ratingAnimation="slide-up"
           avatarsAnimation="slide-up"
@@ -143,13 +111,9 @@ export default function AboutPage() {
         <FooterLogoReveal
           logoText="Maius Digital"
           leftLink={{
-            text: "Privacy Policy",
-            href: "#",
-          }}
+            text: "Privacy Policy",            href: "#"}}
           rightLink={{
-            text: "Terms of Service",
-            href: "#",
-          }}
+            text: "Terms of Service",            href: "#"}}
         />
       </div>
     </ThemeProvider>

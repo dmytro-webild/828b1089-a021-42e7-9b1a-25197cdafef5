@@ -36,9 +36,7 @@ export default function PricingPage() {
           brandName="Maius Digital"
           navItems={navItems}
           button={{
-            text: "Get Your Website",
-            href: "#consultation",
-          }}
+            text: "Get Started",            href: "#consultation"}}
           animateOnLoad={true}
         />
       </div>
@@ -48,19 +46,13 @@ export default function PricingPage() {
           features={[
             {
               icon: Globe,
-              title: "Starter Website - $500",
-              description: "Perfect for getting started online. Includes up to 5 pages, contact form, mobile-responsive design, and basic SEO optimization.",
-            },
+              title: "Starter Website - $500",              description: "Perfect for getting started online. Includes up to 5 pages, contact form, mobile-responsive design, and basic SEO optimization."},
             {
               icon: Award,
-              title: "Professional Package - $800",
-              description: "Full-featured website with advanced functionality. Includes up to 15 pages, booking system, analytics integration, and comprehensive SEO setup.",
-            },
+              title: "Professional Package - $800",              description: "Full-featured website with advanced functionality. Includes up to 15 pages, booking system, analytics integration, and comprehensive SEO setup."},
             {
               icon: Clock,
-              title: "Enterprise Solution - $1200",
-              description: "Complete digital presence. Custom design, unlimited pages, e-commerce integration, advanced analytics, and ongoing support.",
-            },
+              title: "Enterprise Solution - $1200",              description: "Complete digital presence. Custom design, unlimited pages, e-commerce integration, advanced analytics, and ongoing support."},
           ]}
           title="Transparent Pricing That Fits Your Business"
           description="Choose the package that works best for your business goals. All plans include ongoing support and regular updates."
@@ -75,19 +67,13 @@ export default function PricingPage() {
           features={[
             {
               icon: Globe,
-              title: "Mobile-First Design",
-              description: "Every website is optimized for mobile devices to reach customers wherever they are.",
-            },
+              title: "Mobile-First Design",              description: "Every website is optimized for mobile devices to reach customers wherever they are."},
             {
               icon: Award,
-              title: "Lead Capture Forms",
-              description: "Strategic form placement that converts visitors into qualified leads for your business.",
-            },
+              title: "Lead Capture Forms",              description: "Strategic form placement that converts visitors into qualified leads for your business."},
             {
               icon: Clock,
-              title: "24/7 Availability",
-              description: "Your website works around the clock, capturing leads and inquiries automatically.",
-            },
+              title: "24/7 Availability",              description: "Your website works around the clock, capturing leads and inquiries automatically."},
           ]}
           title="What's Included in Every Package"
           description="Professional features designed to help your business succeed online."
@@ -117,13 +103,9 @@ export default function PricingPage() {
         <FooterLogoReveal
           logoText="Maius Digital"
           leftLink={{
-            text: "Privacy Policy",
-            href: "#",
-          }}
+            text: "Privacy Policy",            href: "#"}}
           rightLink={{
-            text: "Terms of Service",
-            href: "#",
-          }}
+            text: "Terms of Service",            href: "#"}}
         />
       </div>
     </ThemeProvider>

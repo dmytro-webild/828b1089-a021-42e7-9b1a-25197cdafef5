@@ -37,9 +37,7 @@ export default function ServicesPage() {
           brandName="Maius Digital"
           navItems={navItems}
           button={{
-            text: "Get Your Website",
-            href: "#consultation",
-          }}
+            text: "Get Started",            href: "#consultation"}}
           animateOnLoad={true}
         />
       </div>
@@ -51,40 +49,28 @@ export default function ServicesPage() {
           features={[
             {
               icon: Zap,
-              title: "Custom Website Design",
-              description:
-                "Bespoke websites built specifically for your business needs, not template-based. Every pixel designed to convert visitors into customers.",
-            },
+              title: "Custom Website Design",              description:
+                "Bespoke websites built specifically for your business needs, not template-based. Every pixel designed to convert visitors into customers."},
             {
               icon: Smartphone,
-              title: "Mobile Optimization",
-              description:
-                "Fully responsive design that looks perfect on all devices. With 60% of traffic from mobile, optimization is essential for success.",
-            },
+              title: "Mobile Optimization",              description:
+                "Fully responsive design that looks perfect on all devices. With 60% of traffic from mobile, optimization is essential for success."},
             {
               icon: Gauge,
-              title: "Performance Optimization",
-              description:
-                "Lightning-fast loading times and SEO optimization to help your website rank higher in search results and attract organic traffic.",
-            },
+              title: "Performance Optimization",              description:
+                "Lightning-fast loading times and SEO optimization to help your website rank higher in search results and attract organic traffic."},
             {
               icon: Lock,
-              title: "Security & Compliance",
-              description:
-                "SSL certificates, data protection, and compliance with industry standards to keep your business and customers safe online.",
-            },
+              title: "Security & Compliance",              description:
+                "SSL certificates, data protection, and compliance with industry standards to keep your business and customers safe online."},
             {
               icon: Headphones,
-              title: "Ongoing Support",
-              description:
-                "Dedicated support team available to help with updates, maintenance, and any technical issues that arise after launch.",
-            },
+              title: "Ongoing Support",              description:
+                "Dedicated support team available to help with updates, maintenance, and any technical issues that arise after launch."},
             {
               icon: Shield,
-              title: "Lead Generation Focus",
-              description:
-                "Strategic placement of call-to-action buttons and contact forms designed to capture leads and drive business inquiries.",
-            },
+              title: "Lead Generation Focus",              description:
+                "Strategic placement of call-to-action buttons and contact forms designed to capture leads and drive business inquiries."},
           ]}
           animationType="slide-up"
           textboxLayout="default"
@@ -98,32 +84,16 @@ export default function ServicesPage() {
           description="Industry-leading expertise and proven results"
           metrics={[
             {
-              id: "1",
-              value: "3x",
-              title: "Average Traffic",
-              description: "Increase within first 6 months",
-              icon: TrendingUp,
+              id: "1",              value: "3x",              title: "Average Traffic",              description: "Increase within first 6 months",              icon: TrendingUp,
             },
             {
-              id: "2",
-              value: "300",
-              title: "Projects Complete",
-              description: "Successfully delivered this year",
-              icon: Award,
+              id: "2",              value: "300",              title: "Projects Complete",              description: "Successfully delivered this year",              icon: Award,
             },
             {
-              id: "3",
-              value: "48h",
-              title: "Avg Response Time",
-              description: "Support available Monday-Friday",
-              icon: Headphones,
+              id: "3",              value: "48h",              title: "Avg Response Time",              description: "Support available Monday-Friday",              icon: Headphones,
             },
             {
-              id: "4",
-              value: "99.9",
-              title: "% Uptime",
-              description: "Guaranteed hosting reliability",
-              icon: Shield,
+              id: "4",              value: "99.9",              title: "% Uptime",              description: "Guaranteed hosting reliability",              icon: Shield,
             },
           ]}
           gridVariant="uniform-all-items-equal"
@@ -143,8 +113,7 @@ export default function ServicesPage() {
           mediaAnimation="slide-up"
           mediaPosition="right"
           background={{
-            variant: "sparkles-gradient",
-          }}
+            variant: "sparkles-gradient"}}
           inputPlaceholder="Enter your email"
           buttonText="Get Custom Quote"
           termsText="We'll review your needs and send a personalized proposal within 24 hours."
@@ -155,13 +124,9 @@ export default function ServicesPage() {
         <FooterLogoReveal
           logoText="Maius Digital"
           leftLink={{
-            text: "Privacy Policy",
-            href: "#",
-          }}
+            text: "Privacy Policy",            href: "#"}}
           rightLink={{
-            text: "Terms of Service",
-            href: "#",
-          }}
+            text: "Terms of Service",            href: "#"}}
         />
       </div>
     </ThemeProvider>
